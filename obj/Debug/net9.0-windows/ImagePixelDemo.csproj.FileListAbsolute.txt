@@ -1,0 +1,14 @@
+C:\Users\setah\ImagePixelDemo\obj\Debug\net9.0-windows\ImagePixelDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setah\ImagePixelDemo\obj\Debug\net9.0-windows\ImagePixelDemo.AssemblyInfoInputs.cache
+C:\Users\setah\ImagePixelDemo\obj\Debug\net9.0-windows\ImagePixelDemo.AssemblyInfo.cs
+C:\Users\setah\ImagePixelDemo\obj\Debug\net9.0-windows\ImagePixelDemo.csproj.CoreCompileInputs.cache
+C:\Users\setah\ImagePixelDemo\bin\Debug\net9.0-windows\ImagePixelDemo.exe
+C:\Users\setah\ImagePixelDemo\bin\Debug\net9.0-windows\ImagePixelDemo.deps.json
+C:\Users\setah\ImagePixelDemo\bin\Debug\net9.0-windows\ImagePixelDemo.runtimeconfig.json
+C:\Users\setah\ImagePixelDemo\bin\Debug\net9.0-windows\ImagePixelDemo.dll
+C:\Users\setah\ImagePixelDemo\bin\Debug\net9.0-windows\ImagePixelDemo.pdb
+C:\Users\setah\ImagePixelDemo\obj\Debug\net9.0-windows\ImagePixelDemo.dll
+C:\Users\setah\ImagePixelDemo\obj\Debug\net9.0-windows\refint\ImagePixelDemo.dll
+C:\Users\setah\ImagePixelDemo\obj\Debug\net9.0-windows\ImagePixelDemo.pdb
+C:\Users\setah\ImagePixelDemo\obj\Debug\net9.0-windows\ImagePixelDemo.genruntimeconfig.cache
+C:\Users\setah\ImagePixelDemo\obj\Debug\net9.0-windows\ref\ImagePixelDemo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ImagePixelDemo/1.0.0": {
+        "runtime": {
+          "ImagePixelDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImagePixelDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
