@@ -18,7 +18,7 @@ namespace ImagePixelDemo
         private string[] imageFiles;
         private int currentIndex = 0;
 
-        public MainForm()
+        public MainForm() 
         {
             this.Text = "Image Pixel Demo";
             this.ClientSize = new Size(1000, 700);
